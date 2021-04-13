@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Log.Statistics": {
+      "commandName": "Project",
+      "commandLineArgs": "-f c:\\development\\file1.txt -s top"
+    }
+  }
+}
