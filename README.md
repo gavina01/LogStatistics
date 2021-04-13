@@ -30,6 +30,8 @@ Tests have been completed for required outcomes -- ConsoleApplication.Tests
  * The top 3 most visited URLs
  * The top 3 most active IP addresses
 
+![image](https://user-images.githubusercontent.com/6653691/114495470-772b0180-9c61-11eb-8231-c34426d643bf.png)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
